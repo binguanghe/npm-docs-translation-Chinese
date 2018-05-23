@@ -55,7 +55,7 @@ npm由三个不同的组件组成：
 
 ---
 
-[CLI](https://docs.npmjs.com/cli/npm)从一个终端运行。这是大多数开发者与npm的交互方式。
+[CLI](https://docs.npmjs.com/cli/npm)从一个终端运行。这是大多数开发者如何与npm的交互方式。
 > The CLI runs from a terminal. This is how most developers interact with npm.
 
 ---
