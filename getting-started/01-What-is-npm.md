@@ -1,36 +1,30 @@
 # 什么是npm？
 > # What is npm?
 
----
 
 npm为你和你的团队打开了一整个JavaScript技能世界。
 > npm opens up an entire world of JavaScript talent for you and your team. 
 
----
 
 
 它是世界上最大的软件注册机构，每周大约有30亿的下载量。
 > It's the world's largest software registry, with approximately 3 billion downloads per week. 
 
----
 
 
 这家注册机构拥有超过60万个包（构建代码块）。
 > The registry contains over 600,000 packages (building blocks of code). 
 
----
 
 
 来自各个洲的开源开发者们使用npm来分享和借用包，此外也有很多组织使用npm来管理私有开发。
 > Open-source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
 
----
 
 
 这里是一个对npm的快速（简要）介绍：
 > Here is a quick introduction to npm: [Youtube](https://youtu.be/x03fjb2VlGY)
 
----
 
 
 npm由三个不同的组件组成：
@@ -43,27 +37,22 @@ npm由三个不同的组件组成：
 - the Command Line Interface (CLI)
 - the registry
 
----
 
 使用[网站](https://npmjs.com)来发现包，设置配置文件，以及管理你其它npm经验的方面。
 > Use the website to discover packages, set up profiles, and manage other aspects of your npm experience. 
 
----
 
 例如，你可以设置[组织](https://npmjs.com/features)来管理包的权限是公有还是私有。
 > For example, you can set up Orgs (organizations) to manage access to public or private packages.
 
----
 
 [CLI](https://docs.npmjs.com/cli/npm)从一个终端运行。这是大多数开发者如何与npm的交互方式。
 > The CLI runs from a terminal. This is how most developers interact with npm.
 
----
 
 这个[机构](https://docs.npmjs.com/misc/registry)是一个大型JavaScript软件和元信息围绕其本身的公有数据库。
 > The registry is a large public database of JavaScript software and the meta-information surrounding it.
 
----
 
 ### 使用npm来。。。。。。
 - 调整代码包到你的应用里，或者按照原样合并到一起。
@@ -92,12 +81,10 @@ npm由三个不同的组件组成：
 - Discover multiple ways to solve the same puzzle.
 - Find other developers who are working on similar problems and projects.
 
----
 
 这些只是开发者使用npm方法的例子。如果你想增加一些要点，评论[这里](https://github.com/npm/docs/issues/944)。
 > These are just a few examples of ways developers use npm. If you'd like to add a bullet point, comment here.
 
----
 
 ### 我从哪儿开始呢？
 > ### Where do I start?
@@ -118,8 +105,6 @@ npm由三个不同的组件组成：
 当你设置完npm账户之后，下一步使用命令行界面来[安装npm](https://docs.npmjs.com/getting-started/installing-node)。我们很期待看到你所创建的东西！
 > After you set up an npm account, the next step is to use the commmand line interface (CLI) to install npm. We look forward to seeing what you create!
 
----
-
 ### 我该如何与其他人分享包或者协作呢？
 > ### How do I share packages or collaborate with others?
 
@@ -136,7 +121,6 @@ npm由三个不同的组件组成：
 或者你可以为公司注册一个称为npmE私有的npm企业类型。
 > Or you can sign up for a custom, private type of npm for your company, called npmE for npm Enterprise.
 
----
 
 #### 了解更多关于npm Orgs 和 npmE
 > #### Learn more about npm Orgs and npmE
@@ -147,7 +131,6 @@ npm由三个不同的组件组成：
 如果你更喜欢拥有自己专用的注册，以便你开发在内部不公开分享的包，可以考虑[npm企业版](https://npmjs.com/enterprise)。
 > If you would prefer to have your own private registry, so that you can develop packages internally that are not shared publicly, consider npm Enterprise.
 
----
 
 ### 了解更多
 > ### Learn More
@@ -173,5 +156,5 @@ npm由三个不同的组件组成：
 尽管相关CLI命令都在这个用户文档中，但CLI包含了命令行帮助，即它自身的[文档章节，以及紧急帮助（手册页面）](https://docs.npmjs.com/cli/help)
 > While relevant CLI commands are covered throughout this user documentation, the CLI includes command line help, its own documentation section, and instant help (man pages). 
 
-当你点击一个关于[任何CLI命令文档](https://docs.npmjs.com/cli/help-search)，左侧边栏辉展示一个所有的CLI命令列表。你也可以在[文档首页](https://docs.npmjs.com)通过滚动到CLI命令以进入CLI命令列表。
+当你点击一个关于[任何CLI命令文档](https://docs.npmjs.com/cli/help-search)，左侧边栏会展示一个所有的CLI命令列表。你也可以在[文档首页](https://docs.npmjs.com)通过滚动到CLI命令以进入CLI命令列表。
 > When you click a doc about any CLI command, a list of all CLI commands appears in the left-hand side bar. You can also access the list of CLI commands by scrolling to CLI Commands on the docs home page.
