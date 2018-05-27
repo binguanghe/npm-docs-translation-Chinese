@@ -30,7 +30,7 @@
 npm install <package_name>
 ```
 
-这条命令会在你当前的目录创建一个**node_modules**文件夹（如果一个包都还没有的话）并将包下载到该目录中。
+这条命令会在你当前的目录创建一个**node_modules**文件夹（如果一个包都还没有的话）并将包下载到该文件夹中。
 
 > This will create the **node_modules** directory in your current directory (if one doesn't exit yet) and will download the package to that directory.
 
