@@ -18,7 +18,7 @@
 > - allows you to specify the version of a package that your project can use using semantic versioning rules.
 > - makes you build reproducible, and therebefore *before* much easer to share with other developers.
 
-## 前提条件
+## 规定
 
 > # Requirements
 
