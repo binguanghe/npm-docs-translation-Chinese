@@ -36,21 +36,21 @@ export.printMsg = function() {
 
 测试：
 
- 	1. 发布你的包到npm。
-	2. 在你的项目外面创建一个新的目录。
-	3. 切换到新的目录（**cd**）。
-	4. 运行**npm install <package>**.
-	5. 创建一个需要引用包的test.js文件并调用方法。
-	6. 运行**node test.js**。发送到console.log的信息将会显示。
+   	1. 发布你的包到npm。
+  2. 在你的项目外面创建一个新的目录。
+  3. 切换到新的目录（**cd**）。
+  4. 运行**npm install <package>**.
+  5. 创建一个需要引用包的test.js文件并调用方法。
+  6. 运行**node test.js**。发送到console.log的信息将会显示。
 
 > Test:
 >
->  	1. Public your package to npm.
-> 	2. Make a new directory outside of your project.
-> 	3. Switch to the new directory(**cd**).
-> 	4. Run **npm install < package >**.
-> 	5. Create a test.js file which requires the package and calls the method.
-> 	6. Run **node test.js**. The message sent to the console.log should appear.
+>    	1. Publish your package to npm.
+>   2. Make a new directory outside of your project.
+>   3. Switch to the new directory(**cd**).
+>   4. Run **npm install < package >**.
+>   5. Create a test.js file which requires the package and calls the method.
+>   6. Run **node test.js**. The message sent to the console.log should appear.
 
 ## 了解更多
 
